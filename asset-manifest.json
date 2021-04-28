@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mywebsite/static/css/main.0dc74a89.chunk.css",
+    "main.js": "/mywebsite/static/js/main.e7a42e3a.chunk.js",
+    "main.js.map": "/mywebsite/static/js/main.e7a42e3a.chunk.js.map",
+    "runtime-main.js": "/mywebsite/static/js/runtime-main.b9ef4f40.js",
+    "runtime-main.js.map": "/mywebsite/static/js/runtime-main.b9ef4f40.js.map",
+    "static/js/2.b6e829f3.chunk.js": "/mywebsite/static/js/2.b6e829f3.chunk.js",
+    "static/js/2.b6e829f3.chunk.js.map": "/mywebsite/static/js/2.b6e829f3.chunk.js.map",
+    "index.html": "/mywebsite/index.html",
+    "static/css/main.0dc74a89.chunk.css.map": "/mywebsite/static/css/main.0dc74a89.chunk.css.map",
+    "static/js/2.b6e829f3.chunk.js.LICENSE.txt": "/mywebsite/static/js/2.b6e829f3.chunk.js.LICENSE.txt",
+    "static/media/3.jpg": "/mywebsite/static/media/3.60924ead.jpg",
+    "static/media/4th.jpg": "/mywebsite/static/media/4th.e940cda8.jpg",
+    "static/media/5th.jpg": "/mywebsite/static/media/5th.f7696c3a.jpg",
+    "static/media/6th.jpg": "/mywebsite/static/media/6th.7a05724f.jpg",
+    "static/media/NAINITAL.jpg": "/mywebsite/static/media/NAINITAL.0d4e59d9.jpg",
+    "static/media/back.jpg": "/mywebsite/static/media/back.c00a3136.jpg",
+    "static/media/Calculate.css": "/mywebsite/static/media/new.c0819d9a.jpg",
+    "static/media/Concact.css": "/mywebsite/static/media/rain.c669dc78.jpg",
+    "static/media/travel.css": "/mywebsite/static/media/rajj.c00a3136.jpg",
+    "static/media/timthumb.jpg": "/mywebsite/static/media/timthumb.b3551494.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9ef4f40.js",
+    "static/js/2.b6e829f3.chunk.js",
+    "static/css/main.0dc74a89.chunk.css",
+    "static/js/main.e7a42e3a.chunk.js"
+  ]
+}
