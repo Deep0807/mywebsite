@@ -1,0 +1,20 @@
+.travel-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: x-large;
+  color: rgb(20, 19, 19);
+  background-image: linear-gradient(
+      rgb(248, 242, 242) 40%,
+      rgb(205, 238, 192) 60%
+    ),
+    url('./img/rajj.jpg');
+
+  opacity: 0.5;
+
+  height: 100vh;
+}
+.travel-container p {
+  width: 70%;
+}
