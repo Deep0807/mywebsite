@@ -6,10 +6,8 @@
   align-items: center;
 }
 .home-wrapper .home-img {
-  margin-top: 3rem;
-  margin-right: 3rem;
-
-  width: 40%;
+  margin: auto;
+  width: 100%;
   height: auto;
   justify-content: center;
   align-items: center;
@@ -42,4 +40,26 @@
   padding: 34px;
   justify-self: center;
   color: rgb(15, 15, 15);
+}
+
+@media all and (min-width: 375px) {
+  .home-wrapper .home-img {
+    width: 90%;
+    margin: auto;
+  }
+  .home-container {
+    width: 90%;
+    margin: auto;
+  }
+}
+
+@media all and (min-width: 768px) {
+  .home-wrapper .home-img {
+    width: 100%;
+    margin: auto;
+  }
+  .home-container {
+    width: 90%;
+    margin: auto;
+  }
 }
