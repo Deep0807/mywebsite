@@ -16,21 +16,3 @@
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
-.colmn8 {
-  display: flex;
-  margin-top: 2rem;
-}
-.colmn6 {
-  display: flex;
-  justify-content: space-around;
-
-  width: 500px;
-  height: 500px;
-  margin-bottom: 2rem;
-}
-
-.colmn6 img {
-  width: 100%;
-
-  background-size: cover;
-}
